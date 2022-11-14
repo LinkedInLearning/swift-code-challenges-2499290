@@ -2,9 +2,11 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `Swift Code Challenges`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![COURSENAME][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![image](https://user-images.githubusercontent.com/61017085/201686382-e944826b-bf81-46f5-afa2-533e63bc55ee.png) 
 
-Swift hat sich in den letzten Jahren zu einer mächtigen und wichtigen Sprache entwickelt, die für iOS-Programmierende immer bedeutsamer wird. Und doch hält sie teils viele spannende Kniffe bereit, die den Alltag von Entwicklenden erleichtern können. Genau hier können Ihnen diese Code Challenges dabei helfen, das Beste aus Swift und der iOS-Entwicklung mit SwiftUI herauszuholen und Ihr eigenes Know-how zu festigen.
+Hinter den Code-Challenges stecken kompakte spannende Programmierrätsel auf unterschiedlichen Schwierigkeitsstufen, mit denen Sie ihre vorhandenen Swift-Skills testen oder weitere neu hinzulernen können. Es handelt sich dabei um 12 mathematische und algorithmische Problemstellungen aus dem Programmieralltag.
+Zu jeder Aufgabe liefert Ihr Trainer Thomas Sillmann gleich die passende Lösung, doch können Sie auch Ihren Lösungsweg ganz leicht mitprogrammieren und testen: Laden Sie den Übungscode direkt von Github in die IDE Ihrer Wahl veröffentlichen Sie vielleicht auch Ihren Lösungsweg?
+Die einzelnen Challenges sind unabhängig voneinander, so dass Sie sie in beliebiger Reihenfolge durchgehen und ansehen können.
 
 ## Anleitung
 
@@ -27,5 +29,5 @@ _Selbstständiger Autor und App-Entwickler_
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/thomas-sillmann) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/code-challenges-fur-swift
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
