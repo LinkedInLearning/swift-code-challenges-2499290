@@ -1,6 +1,6 @@
-# Swift Code Challenges
+# Code-Challenges für Swift
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `Swift Code Challenges`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Code-Challenges für Swift`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 ![image](https://user-images.githubusercontent.com/61017085/201686382-e944826b-bf81-46f5-afa2-533e63bc55ee.png) 
 
