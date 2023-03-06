@@ -2,7 +2,7 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `Code-Challenges für Swift`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/61017085/201686382-e944826b-bf81-46f5-afa2-533e63bc55ee.png) 
+![COURSENAME][lil-thumbnail-url] 
 
 Hinter den Code-Challenges stecken kompakte spannende Programmierrätsel auf unterschiedlichen Schwierigkeitsstufen, mit denen Sie ihre vorhandenen Swift-Skills testen oder weitere neu hinzulernen können. Es handelt sich dabei um 12 mathematische und algorithmische Problemstellungen aus dem Programmieralltag.
 Zu jeder Aufgabe liefert Ihr Trainer Thomas Sillmann gleich die passende Lösung, doch können Sie auch Ihren Lösungsweg ganz leicht mitprogrammieren und testen: Laden Sie den Übungscode direkt von Github in die IDE Ihrer Wahl veröffentlichen Sie vielleicht auch Ihren Lösungsweg?
@@ -30,4 +30,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/code-challenges-fur-swift
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2499290/2499290-1668411335412-16x9.jpg
